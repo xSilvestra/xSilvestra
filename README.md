@@ -1,6 +1,8 @@
-# Silvestra
+<h1 align="center">Silvestra</h1>
 
-<img src="https://i.pinimg.com/originals/43/23/73/432373d918235402ee2c1ae786db26ad.gif" width="100%" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/43/23/73/432373d918235402ee2c1ae786db26ad.gif" width="800" />
+</p>
 
 ---
 
@@ -46,9 +48,6 @@ Focus categories:
 
 ---
 
-
 ## Philosophy
 
 Understand the machine → model the behavior → break assumptions → automate the knowledge.
-
----
