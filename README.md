@@ -1,7 +1,7 @@
 <h1 align="center">Silvestra</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/43/23/73/432373d918235402ee2c1ae786db26ad.gif" width="800" />
+  <img src="x.gif" alt="GIF" width="500" height="100"/>
 </p>
 
 ---
